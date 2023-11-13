@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@300;700&display=swap" rel="stylesheet">
+    <title>Project 72h </title>
+</head>
+
+<body>
+    <div class="banner">
+        <video src="./Assets/video.mp4" autoplay loop muted> </video>
+        <div class="mascara-video"></div>
+    </div>
+    <div class="box-text">
+        <img class="logo-mario" src="./Assets/logo.png" alt="logo do super mario">
+        <p class="titulo">Encanadores Mario & Luigi - Resolvendo seus problemas com estilo!</p>
+        <p class="texto">Voce já se encontrou em uma situação de emergencia com encanamentos? Vazamentos inesperados,
+            canos entupidos
+            ou torneiras que não param de pingar? Não se preocupe, porque estamos aqui para salvar o dia! Apresentamos a
+            vocês os encanadores mais famosos do Reino dos cogumelos - Mario & Luigi!</p>
+        <button class="entrar-contato" onclick="FaleConosco()">Entre em contato</button>
+    </div>
+
+    <div class="box-image">
+        <img class="logo-mario-luigi" src="./Assets/mario.png" alt="imagem mario e luigi">
+    </div>
+    <form class="mario-form" action="https://formsubmit.co/mojoji3770@eazenity.com" method="POST">
+        <h3>Fale Conosco!</h3>
+        <input type="text" placeholder="Nome" name="Nome">
+        <input type="tel" placeholder="Número de contato" name="Contato">
+        <textarea placeholder="Digite aqui seu problema" name="Infos"></textarea>
+        <button class="enviar-form" onclick="EnviarForm" class="button-form">Enviar Formulário</button>
+    </form>
+    <div class="mascara"></div>
+</body>
+
+<script src="./script.js"></script>
+
+</html>
