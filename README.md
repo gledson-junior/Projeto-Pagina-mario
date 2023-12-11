@@ -3,7 +3,7 @@
 <h2> Sobre o projeto: </h2>
 <br>
 <p> Este projeto foi desenvolvido nas tecnologias de JavaScript, HTML e CSS, foi criado com intuito de agregar no aprendizado e reforço na biblioteca de React.
-  Ele permite que os usuários façam solicitações de trabalhos, coloquem seus dados e enviem para um email pré=configurado para receber estas solicitações.</p>
+  Ele permite que os usuários façam solicitações de trabalhos, coloquem seus dados e enviem para um email pré-configurado para receber estas solicitações.</p>
 <br>
 <h2>Tecnologias utilizadas no projeto</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
