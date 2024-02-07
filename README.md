@@ -12,8 +12,8 @@
 <br>
 <h3> Imagens do Projeto </h3>
 <br>
-<img src="https://github.com/gledson-junior/Projeto-Pagina-mario/blob/master/Assets/celular.png" />
-<img src="https://github.com/gledson-junior/Projeto-Pagina-mario/blob/master/Assets/computador.png" />
+<h3>Mobile</h3><img src="https://github.com/gledson-junior/Projeto-Pagina-mario/blob/master/Assets/celular.png" />
+<h3>Desktop</h3><img src="https://github.com/gledson-junior/Projeto-Pagina-mario/blob/master/Assets/computador.png" />
 <br>
 <h3> Instalação </h3>
 <br>
