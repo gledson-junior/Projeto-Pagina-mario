@@ -6,7 +6,8 @@ console.log(EntrarContato)
 console.log(EnviarForm)
 
 function FaleConosco() {
-    EntrarContato.style.left = "700px"
+    EntrarContato.style.left = "50%"
+    EntrarContato.style.transform = "translateX(-50%)"
     MascaraForm.style.visibility = "visible"
 }
 
