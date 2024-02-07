@@ -10,6 +10,11 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <br>
+<h3> Imagens do Projeto </h3>
+<br>
+<img src="https://github.com/gledson-junior/Projeto-Pagina-mario/blob/master/Assets/celular.png" />
+<img src="https://github.com/gledson-junior/Projeto-Pagina-mario/blob/master/Assets/computador.png" />
+<br>
 <h3> Instalação </h3>
 <br>
 <p>Clone o repositório.</p>
